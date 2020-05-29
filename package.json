@@ -1,0 +1,22 @@
+{
+  "name": "datalisa-dev-doc",
+  "version": "1.0.0",
+  "description": "the  doc of datalisa development",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx docsify serve ./doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likeadoge/datalisa-dev-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likeadoge/datalisa-dev-doc/issues"
+  },
+  "homepage": "https://github.com/likeadoge/datalisa-dev-doc#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.0"
+  }
+}
