@@ -1,2 +1,3 @@
-* [首页](/)
-* [介绍](/introduce)
+- Getting started
+
+  - [Quick start](introduce.md)
